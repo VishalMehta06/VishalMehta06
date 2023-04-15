@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Javascript Applications in Web Design**
 
-- 💬 Ask me about **Networking, CCNA**
+- 💬 Ask me anything about **Networking, CCNA**
 
 - 📫 How to reach me **vvmehta06@gmail.com**
 

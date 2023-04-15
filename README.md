@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Python Stock Test Suite](https://github.com/VishalMehta06/stock-test-suite) and [making HTML/JS Templates](https://github.com/VishalMehta06/html-templates)
 
-- 🌱 I’m currently learning about **Javascript Applications in Web Design**
+- 🌱 I’m currently learning about **Kali Pen Testing**
 
 - 💬 Ask me anything about **Networking, CCNA**
 

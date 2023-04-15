@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Mehta!</h1>
 <h3 align="center">A high school developer from the United States!</h3>
 
-- 🔭 I’m currently working on a [Python Stock Test Suite](https://github.com/VishalMehta06/stock-test-suite) and making [HTML/JS Templates](https://github.com/VishalMehta06/html-templates)
+- 🔭 I’m currently working on a [Python Stock Test Suite](https://github.com/VishalMehta06/stock-test-suite) and [Web Development](https://github.com/VishalMehta06/VishalMehta06.github.io)
 
 - 🌱 I’m currently learning about **Kali Pen Testing**
 

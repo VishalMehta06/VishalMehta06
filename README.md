@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Python Stock Backtesting](https://github.com/VishalMehta06/stock-test-suite) and [Web Development](https://github.com/VishalMehta06/VishalMehta06.github.io)
 
-- 🌱 I’m currently learning about **Kali Pen Testing**
+- 🌱 I’m currently learning about **Linux System Hardening and Configuration**
 
 - 💬 Ask me anything about **Networking, CCNA**
 

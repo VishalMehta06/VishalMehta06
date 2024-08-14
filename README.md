@@ -6,7 +6,7 @@
 
 • I’m currently working on [stockanalysis v1.0.0](https://github.com/VishalMehta06/stockanalysis)! <br/>
 • I’m currently learning **Cryptography!** <br/>
-• Ask me about **Networking or cybersecurity**! <br/>
+• Ask me about **Networking or Cybersecurity**! <br/>
 
 </div>
 

@@ -1,6 +1,6 @@
-
-<div align="center">
-<h1 align="center">Hi I'm Vishal!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!&animation=scaleIn"/>
+</p>
 
 <h3>About Me </h3>
 

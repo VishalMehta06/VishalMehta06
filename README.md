@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishalMehta06/VishalMehta06/refs/heads/main/assets/chillin.gif" height="50%" width="50%">
+  <img src="https://raw.githubusercontent.com/VishalMehta06/VishalMehta06/refs/heads/main/assets/chillin.gif" height="50%" width="75%">
 </p>
 
 <h2 align="center">A Little Bit About Me! </h2>
